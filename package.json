@@ -1,0 +1,9 @@
+{
+  "name": "jsonld-generator",
+  "private": true,
+  "type": "module",
+  "description": "Genera datos estructurados JSON-LD (negocio local, organización, persona, FAQ, artículo) con un formulario. App web sin servidor.",
+  "scripts": { "test": "node --test test/esquemas.test.mjs" },
+  "author": "Marco Díez (https://marcodiez.es)",
+  "license": "MIT"
+}
