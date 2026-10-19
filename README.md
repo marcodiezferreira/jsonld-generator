@@ -1,7 +1,5 @@
 # jsonld-generator
 
-> **EN** · A no-backend web app that generates JSON-LD structured data (LocalBusiness and its subtypes, Organization, Person, FAQPage, Article) from a simple form, with live preview, required/recommended field checks and copy-ready `<script>` tag. Plain HTML + JS, runs on GitHub Pages. Docs below in Spanish.
-
 **Datos estructurados para tu web rellenando un formulario, sin escribir código.**
 
 👉 **Pruébala:** https://marcodiezferreira.github.io/jsonld-generator/
